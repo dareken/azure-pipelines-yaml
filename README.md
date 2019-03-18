@@ -1,5 +1,7 @@
 # Azure Pipelines YAML
 
+[![Build Status](https://dev.azure.com/hkenny/Tutorial%201/_apis/build/status/azure-pipelines-yaml.h.kenny-CI?branchName=master)](https://dev.azure.com/hkenny/Tutorial%201/_build/latest?definitionId=24&branchName=master)
+
 YAML templates, samples, and community interaction for [Azure Pipelines](https://docs.microsoft.com/azure/devops/pipelines/).
 While this doesn't replace the docs, our fantastic [support team](https://azure.microsoft.com/support/devops/), or our [UserVoice](https://visualstudio.uservoice.com/forums/330519-visual-studio-team-services), feel free to file suggestions and issues here if they're related to YAML pipelines.
 
