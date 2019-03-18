@@ -1,3 +1,7 @@
+# Docker image, Azure Container Registry, and Azure Kubernetes Service No ARM dependency
+# Build a Docker image, push it to an Azure Container Registry, and deploy it to Azure Kubernetes Service without using ARM Endpoint
+# https://docs.microsoft.com/azure/devops/pipelines/languages/docker
+
 trigger:
 - master
 
